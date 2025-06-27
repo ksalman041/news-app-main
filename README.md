@@ -1,9 +1,5 @@
 # Pure Tech
 
-<p align="center">
-  <img src="images/logo.png" alt="News App Logo" width="200px"/>
-</p>
-
 ## Overview
 This Pure Tech is designed to deliver the latest tech news to users in a visually appealing format. It features responsive news cards and dynamic interactions for an engaging user experience.
 
