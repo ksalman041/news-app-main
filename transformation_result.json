@@ -1,0 +1,319 @@
+
+        {
+        "articles": [
+        
+        {
+        "title": "Revolutionizing Mobile Apps with Flutter",
+        "image": {
+        "src": "images/flutter.jpg",
+        "alt": "Introducing Flutter"
+        },
+        "description": "Explore how Flutter is shaping the future of cross-platform mobile application development with its unique framework and robust features...",
+        "author": {
+        "name": "Emily Chen",
+        "email": "Emily.Chen@gmail.com"
+        },
+        "date": "2024-04-23",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "Understanding the Basics of Blockchain Technology",
+        "image": {
+        "src": "images/blockchain.jpg",
+        "alt": "Blockchain"
+        },
+        "description": "An introductory guide to blockchain technology, its implementation, and how it's becoming a backbone for digital transactions...",
+        "author": {
+        "name": "Derek Smith",
+        "email": "Derek.Smith@gmail.com"
+        },
+        "date": "2024-04-10",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "Big Data and Its Impact on Industry",
+        "image": {
+        "src": "images/bigData.jpg",
+        "alt": "Big Data"
+        },
+        "description": "Big data is more than a buzzword. Discover how it's driving decisions and innovation across different sectors...",
+        "author": {
+        "name": "Jason Bourne",
+        "email": "Jason.Bourne@gmail.com"
+        },
+        "date": "2024-03-25",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "Cybersecurity in the IoT Era",
+        "image": {
+        "src": "images/security.jpg",
+        "alt": "Cybersecurity"
+        },
+        "description": "With the increase of IoT devices, learn about the crucial cybersecurity measures necessary to protect vast networks of connected devices...",
+        "author": {
+        "name": "Laura Jones",
+        "email": "Laura.Jones@gmail.com"
+        },
+        "date": "2024-04-20",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "Exploring the Capabilities of Deep Learning",
+        "image": {
+        "src": "images/deepLearning.jpg",
+        "alt": "Deep Learning"
+        },
+        "description": "Dive deep into the world of deep learning. Understand its mechanisms and how it's revolutionizing technology...",
+        "author": {
+        "name": "Tom Hanks",
+        "email": "Tom.Hanks@gmail.com"
+        },
+        "date": "2024-04-18",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "5G Technology: What You Need to Know",
+        "image": {
+        "src": "images/5g.jpg",
+        "alt": "5G Technology"
+        },
+        "description": "Unpacking the power of 5G technology, its benefits, and how it's expected to change the connectivity landscape...",
+        "author": {
+        "name": "Alice Johnson",
+        "email": "Alice.Johnson@gmail.com"
+        },
+        "date": "2024-03-28",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "The Ethics of Artificial Intelligence",
+        "image": {
+        "src": "images/AI.jpg",
+        "alt": "AI Ethics"
+        },
+        "description": "As AI becomes ubiquitous, we explore the ethical considerations and the responsibility of developers to ensure fairness and safety...",
+        "author": {
+        "name": "Mark Lee",
+        "email": "Mark.Lee@gmail.com"
+        },
+        "date": "2024-04-12",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    , 
+        {
+        "title": "Innovations in Wearable Technology",
+        "image": {
+        "src": "images/wearable.jpg",
+        "alt": "Wearable Technology"
+        },
+        "description": "From fitness trackers to smartwatches, explore the latest innovations in wearable technology and their health implications...",
+        "author": {
+        "name": "Rachel Kim",
+        "email": "Rachel.Kim@gmail.com"
+        },
+        "date": "2024-04-22",
+        "tags": [
+        
+            "tech"
+        , 
+            "dev"
+        
+        ],
+        "relatedArticles": [
+        
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "information"
+            }
+        , 
+            {
+            "url": "https://ohmycodechallenge.blogspot.com/2022/04/how-to-become-video-game-developer-2022.html",
+            "description": "data"
+            }
+        
+        ],
+        "comments": [
+        
+            "I just made a comment about this comment box which is purely made from CSS."
+        
+        ]
+        }
+    
+        ]
+        }
+    

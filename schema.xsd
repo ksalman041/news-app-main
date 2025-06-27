@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition for the root element -->
+    <xsd:element name="news">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="article" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="title" type="xsd:string"/>
+                            <xsd:element name="image">
+                                <xsd:complexType>
+                                    <xsd:attribute name="src" type="xsd:string" use="required"/>
+                                    <xsd:attribute name="alt" type="xsd:string" use="required"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="description" type="xsd:string"/>
+                            <xsd:element name="author">
+                                <xsd:complexType>
+                                    <xsd:attribute name="name" type="xsd:string" use="required"/>
+                                    <xsd:attribute name="email" type="xsd:string" use="required"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="date" type="xsd:date"/>
+                            <xsd:element name="tags">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="tag" type="xsd:string" maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="relatedArticles">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="relatedArticle" maxOccurs="unbounded">
+                                            <xsd:complexType>
+                                                <xsd:simpleContent>
+                                                    <xsd:extension base="xsd:string">
+                                                        <xsd:attribute name="url" type="xsd:string" use="required"/>
+                                                    </xsd:extension>
+                                                </xsd:simpleContent>
+                                            </xsd:complexType>
+                                        </xsd:element>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="comments">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="comment" type="xsd:string" maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>
